@@ -1,0 +1,9 @@
+.git
+.gitignore
+node_modules/
+!dist/
+supabase/
+server/
+!.env
+!Dockerfile
+!nginx.conf
